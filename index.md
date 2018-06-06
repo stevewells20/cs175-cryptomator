@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](https://stevewells20.github.io/cs175-cryptomator/) and ![Image](src)
 ```
+[Link](https://stevewells20.github.io/cs175-cryptomator/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
