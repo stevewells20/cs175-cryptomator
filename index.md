@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://stevewells20.github.io/cs175-cryptomator/) and ![Image](http://theyesmen.org/sites/default/files/logo-theyesmen-small.png)
+[This is a link](https://stevewells20.github.io/cs175-cryptomator/) 
+![This is an image](http://theyesmen.org/sites/default/files/logo-theyesmen-small.png)
 ```
 [This is a link](https://stevewells20.github.io/cs175-cryptomator/)
 
