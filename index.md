@@ -3,6 +3,10 @@ title: The YesMen and Cryptomator
 permalink: /
 ---
 
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+{{ site.github.project_name }}
+
 {{ site.github }}
 
 ## Welcome to GitHub Pages
