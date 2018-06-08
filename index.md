@@ -1,5 +1,5 @@
 ---
-title: The YesMen + Cryptomator
+title: The YesMen and Cryptomator
 layout: post
 permalink: /
 ---
