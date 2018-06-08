@@ -1,6 +1,7 @@
 ---
 title: This is my title
 layout: post
+permalink: /
 ---
 
 ## Welcome to GitHub Pages
