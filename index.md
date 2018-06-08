@@ -1,6 +1,5 @@
 ---
 title: The YesMen + Cryptomator
-project-name: The YesMen + Cryptomator
 layout: post
 permalink: /
 ---
