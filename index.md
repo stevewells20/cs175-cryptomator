@@ -1,5 +1,6 @@
 ---
 title: The YesMen and Cryptomator
+permalink: /
 ---
 
 ## Welcome to GitHub Pages
