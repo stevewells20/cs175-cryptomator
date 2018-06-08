@@ -1,5 +1,6 @@
 ---
-title: This is my title
+title: The YesMen + Cryptomator
+project-name: The YesMen + Cryptomator
 layout: post
 permalink: /
 ---
