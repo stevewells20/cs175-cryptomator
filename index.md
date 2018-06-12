@@ -5,12 +5,6 @@ description: "Information about the YesMen and Cryptomator"
 menuText: Docs
 ---
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-
-
 ## Table of Contents
 - [Who are the YesMen?](#who-are-the-yesmen)
    + [Projects](#projects)
@@ -46,6 +40,12 @@ The YesMen utilize digital media to:
 
 
 # Threats to the YesMen
+
+
+| Groups | Attacks |
+| --- | --- |
+| - Governments | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 
 
