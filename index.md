@@ -8,9 +8,8 @@ layout: Doc
 
 ## Table of Contents
 - [Who are the YesMen?](#who-are-the-yesmen)
-⋅⋅⋅+ [Projects](#projects)
-+ [Projects](#projects)
-* [Projects](#projects)
+   + [Projects](#projects)
+
 
 - [Threats to the YesMen](#threats-to-the-yesmen)
 
