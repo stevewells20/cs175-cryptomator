@@ -1,7 +1,28 @@
 ---
 title: The YesMen and Cryptomator
-permalink: /
+author: Steven Wells
 ---
+
+# Who are the YesMen?
+- The YesMen aim to draw media attention to issues caused by corporations and government through culture jamming campaigns 
+- They create fake websites, fake petitions, performances and films that look legitimate at first glance, but have false information
+- These get the public’s attention and reveal the issues and corruption in “corporate takeover” 
+- The YesMen consists of two men, Jacques Servin and Igor Vamos, but they likely have other members to help carry out their projects --also the YesLab
+
+
+# Threats to the YesMen
+
+## US Government
+
+## Lobbyist Groups
+
+# What is Cryptomator
+
+# How Cryptomator Can Protect the YesMen
+
+
+
+
 
 ## Welcome to GitHub Pages
 
