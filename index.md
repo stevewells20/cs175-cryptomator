@@ -41,17 +41,23 @@ The YesMen utilize digital media to:
 
 # Threats to the YesMen
 
-## Groups
+### Groups
 
 | Governments | Corporations | Lobbyist Groups |
 | --- | --- | 
 | US Federal Government | Big Pharma | National Rifle Association |
 | US Law Enforcement | Big Oil | US Chamber of Commerce |
 
+### Electronic Attacks
 
-## US Government
+| Network Attacks | Stored Data Attacks |
+| --- | --- | 
+| Passive (STORMBREW) | Searches and Seizures | 
+| Active (QUANTUM) | Brute Force and Password Sniffing | 
 
-## Lobbyist Groups
+### US Government
+
+### Lobbyist Groups
 
 # What is Cryptomator
 
