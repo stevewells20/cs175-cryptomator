@@ -76,7 +76,7 @@ The YesMen utilize digital media to:
 - This censorship is possible because of the monetary and political power of the NRA.
 
 <p style="clear:both;">   
-   
+</p>
 
 # What is Cryptomator
 
