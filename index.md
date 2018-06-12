@@ -1,11 +1,17 @@
 ---
 title: The YesMen and Cryptomator
 author: Steven Wells
+description: "Information about the YesMen and Cryptomator"
+menuText: Docs
+layout: Doc
 ---
 
 ## Table of Contents
 - [Who are the YesMen?](#who-are-the-yesmen)
--- [Projects](#projects)
+⋅⋅⋅+ [Projects](#projects)
++ [Projects](#projects)
+* [Projects](#projects)
+
 - [Threats to the YesMen](#threats-to-the-yesmen)
 
 
