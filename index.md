@@ -65,17 +65,21 @@ The YesMen utilize digital media to:
 - The YesMen announced a “revolutionary US government plan” to dismantle fossil fuel companies and have the US be running on 100% renewable energy by 2030.
 
 </p></div>
-## Lobbyist Groups
+
 <div><p>
+## Lobbyist Groups
 <img align="right" width="48%" src="https://lh3.googleusercontent.com/PovhcBnaYUk-nmmN6k8v2T_bxNgtSWW1E1WEnwcEei_yxN7COkpxgSBcWcWydlKCBVgGgvKiPdrVmVxtw80SFCfxU3RUZfrgo2Mkz_j0b0--GEdscgGEvRIdOz5RA8LP8ok-iwZljA8">  
 <img align="left" width="48%" src="https://lh4.googleusercontent.com/3KzDG1jtcl1joRLvFF7fhgUTcplFRbfLAyWip8sVwkDiN-V7r60okLW5PV0Y5FgopsFH9qelLX-kVP8w5ahybatDhj9QOivngrg2DyYbx6yrffQfNuWNvP9bD374cpgohnwItU5vKbU">
 </p></div>
+
 <div>
 # What is Cryptomator
 
 </div>
+
 <div>
 # How Cryptomator Can Protect the YesMen
+
 </div>
 
 
