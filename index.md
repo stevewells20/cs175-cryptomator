@@ -6,13 +6,16 @@ author: Steven Wells
 <details>
 <summary>"Click to expand"</summary>
 - [Who are the YesMen?](#who-are-the-yesmen)
+ * [Projects](#projects)
+- [Threats to the YesMen](#threats-to-the-yesmen)
+</details>
+
+- [Who are the YesMen?](#who-are-the-yesmen)
   * [Projects](#projects)
 - [Threats to the YesMen](#threats-to-the-yesmen)
 
-</details>
-
 # Who are the YesMen?
-<img align="right" width="30%" src="https://lh3.googleusercontent.com/V6Bv8AhcYsyl9LQz3cgkhxOGBr1CJtmEBK1rWxUSjkJGALFO98li734EtFPW312M-C_xmkJFvJb1J-NOZnUGcFkUIxkDTPwLzWAjW0EGObLEIk3usC7ittxmzZFjmjgcJBJLeeGrYEo">
+<img align="right" width="30%" border="10px" src="https://lh3.googleusercontent.com/V6Bv8AhcYsyl9LQz3cgkhxOGBr1CJtmEBK1rWxUSjkJGALFO98li734EtFPW312M-C_xmkJFvJb1J-NOZnUGcFkUIxkDTPwLzWAjW0EGObLEIk3usC7ittxmzZFjmjgcJBJLeeGrYEo">
 - The YesMen aim to draw media attention to issues caused by corporations and government through culture jamming campaigns 
 - They create fake websites, fake petitions, performances and films that look legitimate at first glance, but have false information
 - These get the public’s attention and reveal the issues and corruption in “corporate takeover” 
