@@ -3,7 +3,6 @@ title: The YesMen and Cryptomator
 author: Steven Wells
 ---
 
-<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
 <summary>"Click to expand"</summary>
 - [Why markdown?](#why-markdown)
@@ -21,7 +20,6 @@ author: Steven Wells
   * [DEMO](#demo)
 - [Other Markdown Resources](#other-markdown-resources)
 </details>
-<!-- AUTO-GENERATED-CONTENT:END -->
 
 # Who are the YesMen?
 
