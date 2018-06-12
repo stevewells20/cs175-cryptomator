@@ -65,11 +65,11 @@ This event is attended by influential politicians, lobbyists, law enforcement of
 
 The YesMen announced a “revolutionary US government plan” to dismantle fossil fuel companies and have the US be running on 100% renewable energy by 2030.
 
-<img-align="left" width="50%" src="https://lh5.googleusercontent.com/S_lXVCdWDT0V1w_MhzAE-iW7-SicqlTHEC6yUNV3-PkqJZOOVtC3QFd0vk9A4HtdNGlzHGTyrhIVO4SOrHd-hBfu4B9qugf5YksVr8WyMS7ghKRFNjRQmm-YbaxG2Et1zhmToOr3IVQ">
+<img align="left" width="50%" src="https://lh5.googleusercontent.com/S_lXVCdWDT0V1w_MhzAE-iW7-SicqlTHEC6yUNV3-PkqJZOOVtC3QFd0vk9A4HtdNGlzHGTyrhIVO4SOrHd-hBfu4B9qugf5YksVr8WyMS7ghKRFNjRQmm-YbaxG2Et1zhmToOr3IVQ">
 
 ## Lobbyist Groups
 
-<img-align="center" width="90%" src="https://lh3.googleusercontent.com/PovhcBnaYUk-nmmN6k8v2T_bxNgtSWW1E1WEnwcEei_yxN7COkpxgSBcWcWydlKCBVgGgvKiPdrVmVxtw80SFCfxU3RUZfrgo2Mkz_j0b0--GEdscgGEvRIdOz5RA8LP8ok-iwZljA8">
+<img align="center" width="90%" src="https://lh3.googleusercontent.com/PovhcBnaYUk-nmmN6k8v2T_bxNgtSWW1E1WEnwcEei_yxN7COkpxgSBcWcWydlKCBVgGgvKiPdrVmVxtw80SFCfxU3RUZfrgo2Mkz_j0b0--GEdscgGEvRIdOz5RA8LP8ok-iwZljA8">
 
 # What is Cryptomator
 
