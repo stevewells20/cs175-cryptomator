@@ -22,7 +22,7 @@ author: Steven Wells
 </details>
 
 # Who are the YesMen?
-![The YesMen are Revolting](img align="right" src=https://lh3.googleusercontent.com/V6Bv8AhcYsyl9LQz3cgkhxOGBr1CJtmEBK1rWxUSjkJGALFO98li734EtFPW312M-C_xmkJFvJb1J-NOZnUGcFkUIxkDTPwLzWAjW0EGObLEIk3usC7ittxmzZFjmjgcJBJLeeGrYEo)
+<img align="right" src=https://lh3.googleusercontent.com/V6Bv8AhcYsyl9LQz3cgkhxOGBr1CJtmEBK1rWxUSjkJGALFO98li734EtFPW312M-C_xmkJFvJb1J-NOZnUGcFkUIxkDTPwLzWAjW0EGObLEIk3usC7ittxmzZFjmjgcJBJLeeGrYEo>
 - The YesMen aim to draw media attention to issues caused by corporations and government through culture jamming campaigns 
 - They create fake websites, fake petitions, performances and films that look legitimate at first glance, but have false information
 - These get the public’s attention and reveal the issues and corruption in “corporate takeover” 
