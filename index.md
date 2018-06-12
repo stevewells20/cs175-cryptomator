@@ -44,8 +44,13 @@ The YesMen utilize digital media to:
 
 | Groups | Attacks |
 | --- | --- |
-| - Governments | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| <ul><li>Governments</li>
+       <li>Corporations</li>
+       <li>Lobbyist Groups</li>
+  </ul> 
+   
+   
+   | files |
 
 
 
