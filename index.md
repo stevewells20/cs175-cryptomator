@@ -41,16 +41,11 @@ The YesMen utilize digital media to:
 
 # Threats to the YesMen
 
-
-| Groups | Attacks |
+## Groups
+| Governments | Corporations | Lobbyist Groups |
 | --- | --- |
-| <ul><li>Governments</li>
-       <li>Corporations</li>
-       <li>Lobbyist Groups</li>
-  </ul> 
-   
-   
-   | files |
+| US Federal Government | Big Pharma | NRA |
+| US Law Enforcement | Big Oil | US Chamber of Commerce |
 
 
 
