@@ -3,8 +3,13 @@ title: The YesMen and Cryptomator
 author: Steven Wells
 description: "Information about the YesMen and Cryptomator"
 menuText: Docs
-layout: Doc
 ---
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
 
 ## Table of Contents
 - [Who are the YesMen?](#who-are-the-yesmen)
