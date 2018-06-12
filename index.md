@@ -72,10 +72,10 @@ The YesMen utilize digital media to:
 - 38,000 websites, including ShareTheSafety.org were taken down in response.  
 - This censorship is possible because of the monetary and political power of the NRA.
 
-<img align="left" border-right="12px" width="50%" src="https://lh3.googleusercontent.com/PovhcBnaYUk-nmmN6k8v2T_bxNgtSWW1E1WEnwcEei_yxN7COkpxgSBcWcWydlKCBVgGgvKiPdrVmVxtw80SFCfxU3RUZfrgo2Mkz_j0b0--GEdscgGEvRIdOz5RA8LP8ok-iwZljA8">  <br>
-<img align="left" border-right="12px" width="50%" src="https://lh4.googleusercontent.com/3KzDG1jtcl1joRLvFF7fhgUTcplFRbfLAyWip8sVwkDiN-V7r60okLW5PV0Y5FgopsFH9qelLX-kVP8w5ahybatDhj9QOivngrg2DyYbx6yrffQfNuWNvP9bD374cpgohnwItU5vKbU">
-
-<br>
+<img align="left" border-right="12px" width="52%" src="https://lh3.googleusercontent.com/PovhcBnaYUk-nmmN6k8v2T_bxNgtSWW1E1WEnwcEei_yxN7COkpxgSBcWcWydlKCBVgGgvKiPdrVmVxtw80SFCfxU3RUZfrgo2Mkz_j0b0--GEdscgGEvRIdOz5RA8LP8ok-iwZljA8">   
+<img align="left" border-right="12px" width="52%" src="https://lh4.googleusercontent.com/3KzDG1jtcl1joRLvFF7fhgUTcplFRbfLAyWip8sVwkDiN-V7r60okLW5PV0Y5FgopsFH9qelLX-kVP8w5ahybatDhj9QOivngrg2DyYbx6yrffQfNuWNvP9bD374cpgohnwItU5vKbU">
+   
+   
 
 # What is Cryptomator
 
