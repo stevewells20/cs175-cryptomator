@@ -75,7 +75,7 @@ The YesMen utilize digital media to:
 - 38,000 websites, including ShareTheSafety.org were taken down in response.  
 - This censorship is possible because of the monetary and political power of the NRA.
 
-   
+<p style="clear:both;">   
    
 
 # What is Cryptomator
