@@ -3,23 +3,12 @@ title: The YesMen and Cryptomator
 author: Steven Wells
 ---
 
-<details>
-<summary>"Click to expand"</summary><p>
+## Table of Contents
 - [Who are the YesMen?](#who-are-the-yesmen)
  * [Projects](#projects)
 - [Threats to the YesMen](#threats-to-the-yesmen)
- </p></details>
 
-<details><summary>stuff with *mark* **down**</summary><p>
 
-## _formatted_ **heading** with [a](link)
-
----
-{{standard 3-backtick code block omitted from here due to escaping issues}}
----
-
-Collapsible until here.
-</p></details>
 
 # Who are the YesMen?
 <img align="right" width="30%" border="10px" src="https://lh3.googleusercontent.com/V6Bv8AhcYsyl9LQz3cgkhxOGBr1CJtmEBK1rWxUSjkJGALFO98li734EtFPW312M-C_xmkJFvJb1J-NOZnUGcFkUIxkDTPwLzWAjW0EGObLEIk3usC7ittxmzZFjmjgcJBJLeeGrYEo">
