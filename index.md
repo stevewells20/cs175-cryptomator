@@ -57,6 +57,7 @@ The YesMen utilize digital media to:
 
 ## US Government
 
+<p style="clear:both;">
 <img align="left" padding-right="12px" width="50%" src="https://lh5.googleusercontent.com/S_lXVCdWDT0V1w_MhzAE-iW7-SicqlTHEC6yUNV3-PkqJZOOVtC3QFd0vk9A4HtdNGlzHGTyrhIVO4SOrHd-hBfu4B9qugf5YksVr8WyMS7ghKRFNjRQmm-YbaxG2Et1zhmToOr3IVQ">
 
 **Homeland Security Congress**
@@ -64,8 +65,9 @@ The YesMen utilize digital media to:
 - This event is attended by influential politicians, lobbyists, law enforcement officials, and Intelligence Community officers.
 - The YesMen announced a “revolutionary US government plan” to dismantle fossil fuel companies and have the US be running on 100% renewable energy by 2030.
 
-<p style="clear:both;"></p>
+</p>
 
+<p style="clear:both;">
 ## Lobbyist Groups
 
 <img align="left" border-right="12px" width="52%" src="https://lh4.googleusercontent.com/3KzDG1jtcl1joRLvFF7fhgUTcplFRbfLAyWip8sVwkDiN-V7r60okLW5PV0Y5FgopsFH9qelLX-kVP8w5ahybatDhj9QOivngrg2DyYbx6yrffQfNuWNvP9bD374cpgohnwItU5vKbU">
@@ -77,7 +79,7 @@ The YesMen utilize digital media to:
 - 38,000 websites, including ShareTheSafety.org were taken down in response.  
 - This censorship is possible because of the monetary and political power of the NRA.
 
-<p style="clear:both;"></p>
+</p>
 
 # What is Cryptomator
 
