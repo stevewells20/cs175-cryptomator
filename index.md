@@ -43,7 +43,7 @@ The YesMen utilize digital media to:
 
 ## Groups
 
-| Governments | Corporations | test |
+| Governments | Corporations | Lobbyist Groups |
 | --- | --- | 
 | US Federal Government | Big Pharma | test |
 | US Law Enforcement | Big Oil | test |
