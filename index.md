@@ -19,9 +19,11 @@ menuText: Docs
 - The YesMen aim to draw media attention to issues caused by corporations and government through culture jamming campaigns 
 - They create fake websites, fake petitions, performances and films that look legitimate at first glance, but have false information
 - These get the public’s attention and reveal the issues and corruption in “corporate takeover” 
-- The YesMen consists of two men, Jacques Servin and Igor Vamos, but they likely have other members to help carry out their projects --also the YesLab
+- The YesMen consists of two men, Jacques Servin and Igor Vamos, but they likely have other members to help carry out their projects --also the YesLab.
+   
 
 The YesMen utilize digital media to:
+
 - Empower citizens by raising awareness
 - Expose social class inequality
 
@@ -59,7 +61,7 @@ The YesMen utilize digital media to:
 
 ## US Government
 
-<img align="right" width="50%" src="https://lh5.googleusercontent.com/S_lXVCdWDT0V1w_MhzAE-iW7-SicqlTHEC6yUNV3-PkqJZOOVtC3QFd0vk9A4HtdNGlzHGTyrhIVO4SOrHd-hBfu4B9qugf5YksVr8WyMS7ghKRFNjRQmm-YbaxG2Et1zhmToOr3IVQ">
+<img align="right" border="10px" width="50%" src="https://lh5.googleusercontent.com/S_lXVCdWDT0V1w_MhzAE-iW7-SicqlTHEC6yUNV3-PkqJZOOVtC3QFd0vk9A4HtdNGlzHGTyrhIVO4SOrHd-hBfu4B9qugf5YksVr8WyMS7ghKRFNjRQmm-YbaxG2Et1zhmToOr3IVQ">
 
 
 **Homeland Security Congress**
@@ -71,11 +73,10 @@ The YesMen utilize digital media to:
 
 ## Lobbyist Groups
 
-<img align="right" width="51%" src="https://lh4.googleusercontent.com/3KzDG1jtcl1joRLvFF7fhgUTcplFRbfLAyWip8sVwkDiN-V7r60okLW5PV0Y5FgopsFH9qelLX-kVP8w5ahybatDhj9QOivngrg2DyYbx6yrffQfNuWNvP9bD374cpgohnwItU5vKbU">
-<img align="right" width="51%" src="https://lh3.googleusercontent.com/PovhcBnaYUk-nmmN6k8v2T_bxNgtSWW1E1WEnwcEei_yxN7COkpxgSBcWcWydlKCBVgGgvKiPdrVmVxtw80SFCfxU3RUZfrgo2Mkz_j0b0--GEdscgGEvRIdOz5RA8LP8ok-iwZljA8">   
+<img align="right" border="10px" width="51%" src="https://lh4.googleusercontent.com/3KzDG1jtcl1joRLvFF7fhgUTcplFRbfLAyWip8sVwkDiN-V7r60okLW5PV0Y5FgopsFH9qelLX-kVP8w5ahybatDhj9QOivngrg2DyYbx6yrffQfNuWNvP9bD374cpgohnwItU5vKbU">
+<img align="right" border="10px" width="51%" src="https://lh3.googleusercontent.com/PovhcBnaYUk-nmmN6k8v2T_bxNgtSWW1E1WEnwcEei_yxN7COkpxgSBcWcWydlKCBVgGgvKiPdrVmVxtw80SFCfxU3RUZfrgo2Mkz_j0b0--GEdscgGEvRIdOz5RA8LP8ok-iwZljA8">   
 
 ### National Rifle Association
-
 
 - The YesMen launched a fake NRA campaign, “Share the Safety” in 2016. 
 - The NRA responded with a sweeping DMCA notice to the webhost of the site.
@@ -100,7 +101,7 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
 
 | Attacks | Mitigations |
 | --- | --- |   
-| - Passive (STORMBREW) | Searches and Seizures | 
+| <ul><li> Passive (STORMBREW) </li></ul> | Searches and Seizures | 
 | Active (QUANTUM) | Brute Force and Password Sniffing | 
 
 # What is Cryptomator?
