@@ -101,7 +101,7 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
 
 | Attacks | Mitigations |
 | --- | --- |   
-| \<ul\>\<li\> Passive (STORMBREW) \<\/li\>\<\/ul\> | Searches and Seizures | 
+| <ul><li> Passive (STORMBREW) </li></ul> | Searches and Seizures | 
 | Active (QUANTUM) | Brute Force and Password Sniffing | 
 
 # What is Cryptomator?
