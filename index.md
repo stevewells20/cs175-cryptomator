@@ -57,13 +57,13 @@ The YesMen utilize digital media to:
 
 ## US Government
 
-<img align="left" width="45%" src="https://lh5.googleusercontent.com/S_lXVCdWDT0V1w_MhzAE-iW7-SicqlTHEC6yUNV3-PkqJZOOVtC3QFd0vk9A4HtdNGlzHGTyrhIVO4SOrHd-hBfu4B9qugf5YksVr8WyMS7ghKRFNjRQmm-YbaxG2Et1zhmToOr3IVQ">
+<img align="left" width="50%" src="https://lh5.googleusercontent.com/S_lXVCdWDT0V1w_MhzAE-iW7-SicqlTHEC6yUNV3-PkqJZOOVtC3QFd0vk9A4HtdNGlzHGTyrhIVO4SOrHd-hBfu4B9qugf5YksVr8WyMS7ghKRFNjRQmm-YbaxG2Et1zhmToOr3IVQ">
 
 
 **Homeland Security Congress**
-  - In 2014 the YesMen posed as aides to Colin Powell at the Homeland Security Congress.
-  - This event is attended by influential politicians, lobbyists, law enforcement officials, and Intelligence Community officers.
-  - The YesMen announced a “revolutionary US government plan” to dismantle fossil fuel companies and have the US be running on 100% renewable energy by 2030.
+   - In 2014 the YesMen posed as aides to Colin Powell at the Homeland Security Congress.
+   - This event is attended by influential politicians, lobbyists, law enforcement officials, and Intelligence Community officers.
+   - The YesMen announced a “revolutionary US government plan” to dismantle fossil fuel companies and have the US be running on 100% renewable energy by 2030.
 
 <p style="clear:both;"> </p>
 
@@ -79,6 +79,10 @@ The YesMen utilize digital media to:
 - This censorship is possible because of the monetary and political power of the NRA.
 
 <p style="clear:both;"> </p>
+
+### US Chamber of Commerce
+
+![USCOC](https://lh4.googleusercontent.com/fFBTD6-qq6a09Tr0jkCl0BJZyWfmNdZ1zjhze1Kaj8o9g0qG8a97UbNWPMY03kVmKtEIurrOZ5GemtJKLAF65HVZ0Umn85SqHk3DZo2hjPsSHKgA2nbEidvjsE0xKiCJ81zg3nzZYCI)
 
 # What is Cryptomator
 
