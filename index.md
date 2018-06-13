@@ -117,7 +117,7 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
           <li>Stored Data Attacks
            <ul>
               <li>Searches & seizures</li>
-              <li>Attacks on encrypted data
+              <li>Encrypted data attacks
                  <ul>
                     <li>Brute Force</li>
                     <li>Password Sniffing</li>
