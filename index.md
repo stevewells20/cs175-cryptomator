@@ -7,14 +7,12 @@ description: "How the use of Cryptomator would benefit the YesMen"
 ## Table of Contents
 - [Who are the YesMen](#who-are-the-yesmen)
    - [Projects](#projects)
-      - [GE Fake Website](#ge-fake-website)
-      - [CocaCola Fake Website](#cocacola-fake-website)
-      - [Bush '04 Fake Website](#bush-fake-website)
 - [Threats to the YesMen](#threats-to-the-yesmen)
    - [US Government](#us-government)
    - [Lobbyist Groups](#lobbyist-groups)
    - [Mitigate these threats: Cryptomator](#how-to-mitigate-these-threats-cryptomator)
 - [What is Cryptomator](#what-is-cryptomator)
+   - [Technical Aspects](#technical-aspects)
    - [What Cryptomator does for you](#what-cryptomator-does-for-you)
 
 
@@ -153,7 +151,7 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
 
 # What is Cryptomator?
 
-### Technical Aspects
+## Technical Aspects
 
 - Cryptomator functions as a virtual drive. Files are encrypted and decrypted on the fly with every file access
 - 256 bit AES encryption along with a MAC masterkey is used for encryption of files and file authentication 
