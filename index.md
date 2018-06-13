@@ -41,6 +41,8 @@ The YesMen utilize digital media to:
 
 # Threats to the YesMen
 
+![threatmap](https://lh5.googleusercontent.com/bepV8KNc33XagkoC3_qkb7ilgJ1lkQWg5TeuZVOEXKRZVw8Gj6RzTMEHl9qdBvB8WS2qEfszFDsFOmxR3JM_cJm6syFgfPMJP9_Fa6XWyCKAmrQB4wFMqyCnfWgq0roZ8xaSqcSqHE4)
+
 ### Groups
 
 | Governments | Corporations | Lobbyist Groups |
@@ -57,7 +59,7 @@ The YesMen utilize digital media to:
 
 ## US Government
 
-<img align="left" width="50%" src="https://lh5.googleusercontent.com/S_lXVCdWDT0V1w_MhzAE-iW7-SicqlTHEC6yUNV3-PkqJZOOVtC3QFd0vk9A4HtdNGlzHGTyrhIVO4SOrHd-hBfu4B9qugf5YksVr8WyMS7ghKRFNjRQmm-YbaxG2Et1zhmToOr3IVQ">
+<img align="right" width="50%" src="https://lh5.googleusercontent.com/S_lXVCdWDT0V1w_MhzAE-iW7-SicqlTHEC6yUNV3-PkqJZOOVtC3QFd0vk9A4HtdNGlzHGTyrhIVO4SOrHd-hBfu4B9qugf5YksVr8WyMS7ghKRFNjRQmm-YbaxG2Et1zhmToOr3IVQ">
 
 
 **Homeland Security Congress**
@@ -69,10 +71,12 @@ The YesMen utilize digital media to:
 
 ## Lobbyist Groups
 
-<img align="right" padding="12px" margin="5px" width="51%" src="https://lh4.googleusercontent.com/3KzDG1jtcl1joRLvFF7fhgUTcplFRbfLAyWip8sVwkDiN-V7r60okLW5PV0Y5FgopsFH9qelLX-kVP8w5ahybatDhj9QOivngrg2DyYbx6yrffQfNuWNvP9bD374cpgohnwItU5vKbU">
-<img align="right" padding="12px" width="51%" src="https://lh3.googleusercontent.com/PovhcBnaYUk-nmmN6k8v2T_bxNgtSWW1E1WEnwcEei_yxN7COkpxgSBcWcWydlKCBVgGgvKiPdrVmVxtw80SFCfxU3RUZfrgo2Mkz_j0b0--GEdscgGEvRIdOz5RA8LP8ok-iwZljA8">   
+<img align="right" width="51%" src="https://lh4.googleusercontent.com/3KzDG1jtcl1joRLvFF7fhgUTcplFRbfLAyWip8sVwkDiN-V7r60okLW5PV0Y5FgopsFH9qelLX-kVP8w5ahybatDhj9QOivngrg2DyYbx6yrffQfNuWNvP9bD374cpgohnwItU5vKbU">
+<img align="right" width="51%" src="https://lh3.googleusercontent.com/PovhcBnaYUk-nmmN6k8v2T_bxNgtSWW1E1WEnwcEei_yxN7COkpxgSBcWcWydlKCBVgGgvKiPdrVmVxtw80SFCfxU3RUZfrgo2Mkz_j0b0--GEdscgGEvRIdOz5RA8LP8ok-iwZljA8">   
 
 ### National Rifle Association
+
+
 - The YesMen launched a fake NRA campaign, “Share the Safety” in 2016. 
 - The NRA responded with a sweeping DMCA notice to the webhost of the site.
 - 38,000 websites, including ShareTheSafety.org were taken down in response.  
@@ -83,6 +87,14 @@ The YesMen utilize digital media to:
 ### US Chamber of Commerce
 
 ![USCOC](https://lh4.googleusercontent.com/fFBTD6-qq6a09Tr0jkCl0BJZyWfmNdZ1zjhze1Kaj8o9g0qG8a97UbNWPMY03kVmKtEIurrOZ5GemtJKLAF65HVZ0Umn85SqHk3DZo2hjPsSHKgA2nbEidvjsE0xKiCJ81zg3nzZYCI)
+The US Chamber of Commerce made these legal Claims against the YesMen:
+- Conspiracy
+- Cybersquatting
+- False Advertising
+- Trademark Infringement
+- Trademark Dilution
+- Trade Libel
+- Unfair Competition
 
 # What is Cryptomator
 
