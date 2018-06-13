@@ -132,16 +132,16 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
           <li>En-route data AES encrypted
              <ul>
                 <li>Passive attack: Fully mitigated</li>
-                <li>Active attack: Partially mitigated</li>
+                <li>Active attack: Partial mitigation</li>
              </ul>
           </li>
-          <li>User password encrypted with Scrypt
+          <li>Scrypt password encryption
              <ul>
-               <li>Searches/seizures: Fully mitigated</li>
+               <li>Searches: Fully mitigated</li>
                <li>ShA1PRNG 440 bit encryption with KEK
                   <ul>
                      <li>Brute Force: Fully mitigated</li>
-                     <li>Password Sniffing: Partially mitigated</li>
+                     <li>Password Sniffing: Partial mitigation</li>
                   </ul>
                </li>
              </ul>
