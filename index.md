@@ -7,7 +7,7 @@ menuText: Docs
 
 ## Table of Contents
 - [Who are the YesMen?](#who-are-the-yesmen)
-   + [Projects](#projects)
+   - [Projects](#projects)
 
 
 - [Threats to the YesMen](#threats-to-the-yesmen)
@@ -27,16 +27,16 @@ The YesMen utilize digital media to:
 - Empower citizens by raising awareness
 - Expose social class inequality
 
-## Projects:
+### Projects:
 
-### GE Fake Website (2011)
+#### GE Fake Website (2011)
 ![GE Fake Website 2011](https://lh3.googleusercontent.com/oad_WCYfq3VW852Fe5mP79rIiBHSeftLqjxpBS7TRAgSfMfh-TZ-zdEY0fPKUsPYTSMQc3YiHnyIAaClnNjE5RtkU4jbB1G5JmytRsKWOoe4ohE1JL5dqfwdBWvWdiWu4TAHZQj2Zkw)
 
-### CocaCola Fake Website (2007)
+#### CocaCola Fake Website (2007)
 
 ![CocaCola Fake Website 2007](https://lh4.googleusercontent.com/i_da7YzBtysT-XNiNIFPDWRmeV_eQiOs1tTs5sy4iXRdpFl3Qrj6rnICyNkWUfypF30oskDyQyyhrzznAxKkLMDMhwUrsTSmAQnFicm8IroouZWbbZEFtVpxRJ6t2nbudTqGZcidrvg)
 
-### Bush ’04 Fake Website (2004)
+#### Bush ’04 Fake Website (2004)
 
 ![Bush ’04 Fake Website 2004](https://lh6.googleusercontent.com/vVq_7o4Csdl5LNCp-S9GygcjqLq7TW5qiGe43qraOBdvj7ZMCJG_i1M8YPusKpaKtts3WRT8rlQbXPramgs2rpDdPWYPlXHb26hKezsHWU1pj5VWPpWDqcfkTsTV4cyoQZ8OuRAdEVQ)
 
@@ -45,21 +45,21 @@ The YesMen utilize digital media to:
 
 ![threatmap](https://lh5.googleusercontent.com/bepV8KNc33XagkoC3_qkb7ilgJ1lkQWg5TeuZVOEXKRZVw8Gj6RzTMEHl9qdBvB8WS2qEfszFDsFOmxR3JM_cJm6syFgfPMJP9_Fa6XWyCKAmrQB4wFMqyCnfWgq0roZ8xaSqcSqHE4)
 
-### Groups
+#### Groups
 
 | Governments | Corporations | Lobbyist Groups |
 | :---: | :---: | :---: | 
 | US Federal Government | Big Pharma | National Rifle Association |
 | US Law Enforcement | Big Oil | US Chamber of Commerce |
 
-### Electronic Attacks
+#### Electronic Attacks
 
 | Network Attacks | Stored Data Attacks |
 | :---: | :---: | 
 | Passive (STORMBREW) | Searches and Seizures | 
 | Active (QUANTUM) | Brute Force and Password Sniffing | 
 
-## US Government
+### US Government
 
 <img align="right" border="10px" width="50%" src="https://lh5.googleusercontent.com/S_lXVCdWDT0V1w_MhzAE-iW7-SicqlTHEC6yUNV3-PkqJZOOVtC3QFd0vk9A4HtdNGlzHGTyrhIVO4SOrHd-hBfu4B9qugf5YksVr8WyMS7ghKRFNjRQmm-YbaxG2Et1zhmToOr3IVQ">
 
@@ -71,12 +71,12 @@ The YesMen utilize digital media to:
 
 <p style="clear:both;"> </p>
 
-## Lobbyist Groups
+### Lobbyist Groups
 
 <img align="right" border="10px" width="51%" src="https://lh4.googleusercontent.com/3KzDG1jtcl1joRLvFF7fhgUTcplFRbfLAyWip8sVwkDiN-V7r60okLW5PV0Y5FgopsFH9qelLX-kVP8w5ahybatDhj9QOivngrg2DyYbx6yrffQfNuWNvP9bD374cpgohnwItU5vKbU">
 <img align="right" border="10px" width="51%" src="https://lh3.googleusercontent.com/PovhcBnaYUk-nmmN6k8v2T_bxNgtSWW1E1WEnwcEei_yxN7COkpxgSBcWcWydlKCBVgGgvKiPdrVmVxtw80SFCfxU3RUZfrgo2Mkz_j0b0--GEdscgGEvRIdOz5RA8LP8ok-iwZljA8">   
 
-### National Rifle Association
+#### National Rifle Association
 
 - The YesMen launched a fake NRA campaign, “Share the Safety” in 2016. 
 - The NRA responded with a sweeping DMCA notice to the webhost of the site.
@@ -85,7 +85,7 @@ The YesMen utilize digital media to:
 
 <p style="clear:both;"> </p>
 
-### US Chamber of Commerce
+#### US Chamber of Commerce
 
 ![USCOC](https://lh4.googleusercontent.com/fFBTD6-qq6a09Tr0jkCl0BJZyWfmNdZ1zjhze1Kaj8o9g0qG8a97UbNWPMY03kVmKtEIurrOZ5GemtJKLAF65HVZ0Umn85SqHk3DZo2hjPsSHKgA2nbEidvjsE0xKiCJ81zg3nzZYCI)
 The US Chamber of Commerce made these legal Claims against the YesMen:
@@ -97,7 +97,7 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
 - Trade Libel
 - Unfair Competition
 
-## How to mitigate these threats: Cryptomator
+### How to mitigate these threats: Cryptomator
 
 <table>
   <tbody>
@@ -166,7 +166,7 @@ Files along with folder names are encrypted. The cleartext name of a file is enc
 
 ![Encryption Process](https://lh6.googleusercontent.com/e-kpXkqz3hFiHi7TRZAak5eKUwVmZZyprvkeBTF50UWIv5K0uhIXcKTIhGM6GkqnHlEgp3QaIibIgfqaRY28WEDy7sdALBYuxX5HdXsi)
 
-#### What Cryptomator does for you
+## What Cryptomator does for you
 
 <img align="right" border="15px" width="45%" src="https://lh6.googleusercontent.com/BJJN5DBGMpRYmiR4IkyB0x-zK9YyMXMZ259DZRTAaky5nwxX-P8gOvvyWGAoUio9fWgvvTG1KYU7rT9rid7qk0bC4-DsFOcyWleorukM">
 
