@@ -46,7 +46,7 @@ The YesMen utilize digital media to:
 ### Groups
 
 | Governments | Corporations | Lobbyist Groups |
-| :---: | :---: | 
+| :---: | :---: | :---: | 
 | US Federal Government | Big Pharma | National Rifle Association |
 | US Law Enforcement | Big Oil | US Chamber of Commerce |
 
@@ -99,8 +99,8 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
 ## How to mitigate these threats: Cryptomator
 
 | Attacks | Mitigations |
-| :--- | ---: |   
-| \- Passive (STORMBREW) | Searches and Seizures | 
+| --- | --- |   
+| - Passive (STORMBREW) | Searches and Seizures | 
 | Active (QUANTUM) | Brute Force and Password Sniffing | 
 
 # What is Cryptomator?
