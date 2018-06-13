@@ -154,18 +154,22 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
 - WebDAV is the frontend for cryptomator and is an HTTP-based protocol. 
 
 ### Masterkey Derivation
-<div style="float:right; border:10px; width:35%; font-size:80%; text-align:center;">
+<div style="float:right; border:10px; width:40%; font-size:75%; text-align:center;">
 <img src="https://lh5.googleusercontent.com/lrdcmBws972rw2kDauSJWIgDiuHpiycYr7-P-J9G3csT7kkhb5K4LUXUErrSvA6ns3XCjkPz6fZm38Kg0UHDsteX77226rKtC8tPHjVKWdQDcgdeTbJU5UcbfBNyeuguAOOYcdIc8Cg" style="padding-bottom:0.5em;">
 The KEK decrypts the stored masterkeys when unlocking the vault</div>
 
 Each vault has its own encryption and MAC masterkey. A cryptographically secure pseudorandom number generator called SecureRandom with ShA1PRNG is used to seed the key with 440 bits. Afterward, Scrypt encrypts the masterkey with a KEK (Key-encryption key) derived from the user’s password. Scrypt is designed to make large-scale custom hardware attacks costly by requiring large amounts of memory.
 
-The KEK decrypts the stored masterkeys when unlocking the vault 
+### Encryption Process
 
+Files along with folder names are encrypted. The cleartext name of a file is encoded using UTF-8 in Normalization form C for a unique binary representation. AES-SIV is used to encrypt the file and directory names.
 
+![Encryption Process](https://lh6.googleusercontent.com/e-kpXkqz3hFiHi7TRZAak5eKUwVmZZyprvkeBTF50UWIv5K0uhIXcKTIhGM6GkqnHlEgp3QaIibIgfqaRY28WEDy7sdALBYuxX5HdXsi)
 
-# How Cryptomator Can Protect the YesMen
+### What Cryptomator does for you
 
+<img align="right" border="10px" width="50%" src="https://lh6.googleusercontent.com/BJJN5DBGMpRYmiR4IkyB0x-zK9YyMXMZ259DZRTAaky5nwxX-P8gOvvyWGAoUio9fWgvvTG1KYU7rT9rid7qk0bC4-DsFOcyWleorukM">
 
-
+Allows you to secure your data on any server or cloud storage including Dropbox and Google drive. This allows for a group to share vaults and keep what they’re working on encrypted. It’s Open source and available on many platforms including Windows, macOS, Linux, Android, iOS, and even as a jar.
+And best of all: it is easy to use!
 
