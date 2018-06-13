@@ -2,7 +2,7 @@
 title: The YesMen and Cryptomator
 author: Steven Wells
 description: How the use of Cryptomator would benefit the YesMen
-layout: post
+
 ---
 
 ## Table of Contents
