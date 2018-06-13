@@ -166,9 +166,9 @@ Files along with folder names are encrypted. The cleartext name of a file is enc
 
 ![Encryption Process](https://lh6.googleusercontent.com/e-kpXkqz3hFiHi7TRZAak5eKUwVmZZyprvkeBTF50UWIv5K0uhIXcKTIhGM6GkqnHlEgp3QaIibIgfqaRY28WEDy7sdALBYuxX5HdXsi)
 
-### What Cryptomator does for you
+#### What Cryptomator does for you
 
-<img align="right" border="10px" width="50%" src="https://lh6.googleusercontent.com/BJJN5DBGMpRYmiR4IkyB0x-zK9YyMXMZ259DZRTAaky5nwxX-P8gOvvyWGAoUio9fWgvvTG1KYU7rT9rid7qk0bC4-DsFOcyWleorukM">
+<img align="right" border="15px" width="45%" src="https://lh6.googleusercontent.com/BJJN5DBGMpRYmiR4IkyB0x-zK9YyMXMZ259DZRTAaky5nwxX-P8gOvvyWGAoUio9fWgvvTG1KYU7rT9rid7qk0bC4-DsFOcyWleorukM">
 
 Allows you to secure your data on any server or cloud storage including Dropbox and Google drive. This allows for a group to share vaults and keep what they’re working on encrypted. It’s Open source and available on many platforms including Windows, macOS, Linux, Android, iOS, and even as a jar.
 And best of all: it is easy to use!
