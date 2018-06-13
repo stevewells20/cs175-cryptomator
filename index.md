@@ -116,7 +116,7 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
           </li>
           <li>Stored Data Attacks
            <ul>
-              <li>Searches & seizures on unencrypted data</li>
+              <li>Searches & seizures</li>
               <li>Attacks on encrypted data
                  <ul>
                     <li>Brute Force</li>
@@ -137,8 +137,8 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
           </li>
           <li>Scrypt password encryption
              <ul>
-               <li>Searches: Fully mitigated</li>
-               <li>ShA1PRNG 440 bit encryption with KEK
+               <li>Unencrypted: Fully mitigated</li>
+               <li>ShA1PRNG encryption
                   <ul>
                      <li>Brute Force: Fully mitigated</li>
                      <li>Password Sniffing: Partial mitigation</li>
