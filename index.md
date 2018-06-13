@@ -99,11 +99,6 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
 
 ## How to mitigate these threats: Cryptomator
 
-| Attacks | Mitigations |
-| --- | --- |   
-| <ul><li> Passive (STORMBREW) </li></ul> | Searches and Seizures | 
-| Active (QUANTUM) | Brute Force and Password Sniffing | 
-
 <table>
   <tbody>
     <tr>
@@ -113,11 +108,28 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
     <tr>
       <td>
         <ul>
+          <li>Network Attacks
+           <ul>
+              <li>Passive (STORMBREW) </li>
+              <li>Active (QUANTUM) </li>
+           </ul></li>
+          <li>Stored Data Attacks
+           <ul>
+              <li>Searches & seizures on unencrypted data</li>
+              <li>Attacks on encrypted data</li>
+           </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
           <li>item1</li>
           <li>item2</li>
         </ul>
       </td>
-    </tr>
+    </tr>     
   </tbody>
 </table>
 
