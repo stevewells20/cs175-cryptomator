@@ -57,7 +57,7 @@ The YesMen utilize digital media to:
 
 ## US Government
 
-<img align="left" padding="12px" width="50%" src="https://lh5.googleusercontent.com/S_lXVCdWDT0V1w_MhzAE-iW7-SicqlTHEC6yUNV3-PkqJZOOVtC3QFd0vk9A4HtdNGlzHGTyrhIVO4SOrHd-hBfu4B9qugf5YksVr8WyMS7ghKRFNjRQmm-YbaxG2Et1zhmToOr3IVQ">
+<img align="left" margin="12px" width="45%" src="https://lh5.googleusercontent.com/S_lXVCdWDT0V1w_MhzAE-iW7-SicqlTHEC6yUNV3-PkqJZOOVtC3QFd0vk9A4HtdNGlzHGTyrhIVO4SOrHd-hBfu4B9qugf5YksVr8WyMS7ghKRFNjRQmm-YbaxG2Et1zhmToOr3IVQ">
 
 **Homeland Security Congress**
 - In 2014 the YesMen posed as aides to Colin Powell at the Homeland Security Congress.
