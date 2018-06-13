@@ -16,8 +16,6 @@ description: "How the use of Cryptomator would benefit the YesMen"
    - [What Cryptomator does for you](#what-cryptomator-does-for-you)
 
 
-
-
 # Who are the YesMen?
 <img align="right" width="30%" border="10px" src="https://lh3.googleusercontent.com/V6Bv8AhcYsyl9LQz3cgkhxOGBr1CJtmEBK1rWxUSjkJGALFO98li734EtFPW312M-C_xmkJFvJb1J-NOZnUGcFkUIxkDTPwLzWAjW0EGObLEIk3usC7ittxmzZFjmjgcJBJLeeGrYEo">
 - The YesMen aim to draw media attention to issues caused by corporations and government through culture jamming campaigns 
@@ -31,7 +29,7 @@ The YesMen utilize digital media to:
 - Empower citizens by raising awareness
 - Expose social class inequality
 
-### Projects:
+## Projects:
 
 #### GE Fake Website (2011)
 ![GE Fake Website 2011](https://lh3.googleusercontent.com/oad_WCYfq3VW852Fe5mP79rIiBHSeftLqjxpBS7TRAgSfMfh-TZ-zdEY0fPKUsPYTSMQc3YiHnyIAaClnNjE5RtkU4jbB1G5JmytRsKWOoe4ohE1JL5dqfwdBWvWdiWu4TAHZQj2Zkw)
@@ -49,14 +47,14 @@ The YesMen utilize digital media to:
 
 ![threatmap](https://lh5.googleusercontent.com/bepV8KNc33XagkoC3_qkb7ilgJ1lkQWg5TeuZVOEXKRZVw8Gj6RzTMEHl9qdBvB8WS2qEfszFDsFOmxR3JM_cJm6syFgfPMJP9_Fa6XWyCKAmrQB4wFMqyCnfWgq0roZ8xaSqcSqHE4)
 
-#### Groups
+### Groups
 
 | Governments | Corporations | Lobbyist Groups |
 | :---: | :---: | :---: | 
 | US Federal Government | Big Pharma | National Rifle Association |
 | US Law Enforcement | Big Oil | US Chamber of Commerce |
 
-#### Electronic Attacks
+### Electronic Attacks
 
 | Network Attacks | Stored Data Attacks |
 | :---: | :---: | 
@@ -101,7 +99,7 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
 - Trade Libel
 - Unfair Competition
 
-### How to mitigate these threats: Cryptomator
+## How to mitigate these threats: Cryptomator
 
 <table>
   <tbody>
