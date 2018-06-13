@@ -107,46 +107,37 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
     </tr>
     <tr>
       <td>
+       Network Attacks
         <ul>
-          <li>Network Attacks
-           <ul>
-              <li>Passive (STORMBREW) </li>
-              <li>Active (QUANTUM) </li>
-           </ul>
-          </li>
-          <li>Stored Data Attacks
-           <ul>
-              <li>Searches & seizures</li>
-              <li>Encrypted data attacks
-                 <ul>
-                    <li>Brute Force</li>
-                    <li>Password Sniffing</li>
-                 </ul>
-              </li>
-           </ul>
-          </li>
+           <li>Passive (STORMBREW) </li>
+           <li>Active (QUANTUM) </li>
+        </ul>
+       Stored Data Attacks
+        <ul>
+           <li>Searches & seizures</li>
+           <li>Encrypted data attacks
+              <ul>
+                 <li>Brute Force</li>
+                 <li>Password Sniffing</li>
+              </ul>
+           </li>
         </ul>
       </td>
       <td>
-        <ul>
-          <li>En-route data AES encrypted
-             <ul>
-                <li>Passive attack: Fully mitigated</li>
-                <li>Active attack: Partial mitigation</li>
-             </ul>
-          </li>
-          <li>Scrypt password encryption
-             <ul>
-               <li>Unencrypted: Fully mitigated</li>
-               <li>ShA1PRNG encryption
-                  <ul>
-                     <li>Brute Force: Fully mitigated</li>
-                     <li>Password Sniffing: Partial mitigation</li>
-                  </ul>
-               </li>
-             </ul>
-          </li>
-        </ul>
+      En-route data AES encrypted
+      <ul>
+        <li>Passive attack: Fully mitigated</li>
+        <li>Active attack: Partial mitigation</li>
+      </ul>
+      Scrypt password encryption
+      <ul>
+        <li>Unencrypted: Fully mitigated</li>
+        <li>ShA1PRNG encryption
+           <ul>
+              <li>Brute Force: Fully mitigated</li>
+              <li>Password Sniffing: Partial mitigation</li>
+           </ul>
+        </li>
       </td>
     </tr>     
   </tbody>
