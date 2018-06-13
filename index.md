@@ -144,6 +144,7 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
                      <li>Password Sniffing: Partially mitigated</li>
                   </ul>
                </li>
+             </ul>
           </li>
         </ul>
       </td>
