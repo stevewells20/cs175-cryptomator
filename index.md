@@ -1,13 +1,19 @@
 ---
-title: The YesMen and Cryptomator
+title: "The YesMen and Cryptomator"
 author: Steven Wells
-description: "Information about the YesMen and Cryptomator"
-menuText: Docs
+description: "How the use of Cryptomator would benefit the YesMen"
 ---
 
 ## Table of Contents
 - [Who are the YesMen?](#who-are-the-yesmen)
    - [Projects](#projects)
+      - [GE Fake Website](#ge-fake-website)
+      - [CocaCola Fake Website](#cocacola-fake-website)
+      - [Bush '04 Fake Website](#bush-fake-website)
+- [Threats to the YesMen?](#threats-to-the-yesmen)
+      - [Groups](#groups)
+      - [Electronic Attacks](#electronic-attacks)
+   - [US Government](#us-government)
 
 
 - [Threats to the YesMen](#threats-to-the-yesmen)
