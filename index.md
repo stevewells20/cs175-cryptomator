@@ -112,21 +112,39 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
            <ul>
               <li>Passive (STORMBREW) </li>
               <li>Active (QUANTUM) </li>
-           </ul></li>
+           </ul>
+          </li>
           <li>Stored Data Attacks
            <ul>
               <li>Searches & seizures on unencrypted data</li>
-              <li>Attacks on encrypted data</li>
+              <li>Attacks on encrypted data
+                 <ul>
+                    <li>Brute Force</li>
+                    <li>Password Sniffing</li>
+                 </ul>
+              </li>
            </ul>
           </li>
         </ul>
       </td>
-    </tr>
-    <tr>
       <td>
         <ul>
-          <li>item1</li>
-          <li>item2</li>
+          <li>En-route data AES encrypted
+             <ul>
+                <li>Passive attack: Fully mitigated</li>
+                <li>Active attack: Partially mitigated</li>
+             </ul>
+          </li>
+          <li>User password encrypted with Scrypt
+             <ul>
+               <li>Searches/seizures: Fully mitigated</li>
+               <li>ShA1PRNG 440 bit encryption with KEK
+                  <ul>
+                     <li>Brute Force: Fully mitigated</li>
+                     <li>Password Sniffing: Partially mitigated</li>
+                  </ul>
+               </li>
+          </li>
         </ul>
       </td>
     </tr>     
