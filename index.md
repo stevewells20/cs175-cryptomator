@@ -132,7 +132,7 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
       Scrypt password encryption
       <ul>
         <li>Unencrypted: Fully mitigated</li>
-        <li>ShA1PRNG encryption
+        <li>ShA1PRNG 440 bit encryption
            <ul>
               <li>Brute Force: Fully mitigated</li>
               <li>Password Sniffing: Partial mitigation</li>
@@ -146,6 +146,23 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
 
 
 # What is Cryptomator?
+
+### Technical Aspects
+
+- Cryptomator functions as a virtual drive. Files are encrypted and decrypted on the fly with every file access
+- 256 bit AES encryption along with a MAC masterkey is used for encryption of files and file authentication 
+- WebDAV is the frontend for cryptomator and is an HTTP-based protocol. 
+
+### Masterkey Derivation
+<div style="width:25%; font-size:80%; text-align:center;">
+<img align="right" border="10px" width="25%" src="https://lh5.googleusercontent.com/lrdcmBws972rw2kDauSJWIgDiuHpiycYr7-P-J9G3csT7kkhb5K4LUXUErrSvA6ns3XCjkPz6fZm38Kg0UHDsteX77226rKtC8tPHjVKWdQDcgdeTbJU5UcbfBNyeuguAOOYcdIc8Cg" style="padding-bottom:0.5em;">
+The KEK decrypts the stored masterkeys when unlocking the vault</div>
+
+Each vault has its own encryption and MAC masterkey. A cryptographically secure pseudorandom number generator called SecureRandom with ShA1PRNG is used to seed the key with 440 bits. Afterward, Scrypt encrypts the masterkey with a KEK (Key-encryption key) derived from the user’s password. Scrypt is designed to make large-scale custom hardware attacks costly by requiring large amounts of memory.
+
+The KEK decrypts the stored masterkeys when unlocking the vault 
+
+
 
 # How Cryptomator Can Protect the YesMen
 
