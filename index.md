@@ -154,7 +154,7 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
 - WebDAV is the frontend for cryptomator and is an HTTP-based protocol. 
 
 ### Masterkey Derivation
-<div align="right" border="10px" style="width:25%; font-size:80%; text-align:center;">
+<div style="align:right; border:10px; width:35%; font-size:80%; text-align:center;">
 <img src="https://lh5.googleusercontent.com/lrdcmBws972rw2kDauSJWIgDiuHpiycYr7-P-J9G3csT7kkhb5K4LUXUErrSvA6ns3XCjkPz6fZm38Kg0UHDsteX77226rKtC8tPHjVKWdQDcgdeTbJU5UcbfBNyeuguAOOYcdIc8Cg" style="padding-bottom:0.5em;">
 The KEK decrypts the stored masterkeys when unlocking the vault</div>
 
