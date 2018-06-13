@@ -19,15 +19,16 @@ description: How the use of Cryptomator would benefit the YesMen
 # Who are the YesMen?
 <img align="right" width="30%" border="10px" src="https://lh3.googleusercontent.com/V6Bv8AhcYsyl9LQz3cgkhxOGBr1CJtmEBK1rWxUSjkJGALFO98li734EtFPW312M-C_xmkJFvJb1J-NOZnUGcFkUIxkDTPwLzWAjW0EGObLEIk3usC7ittxmzZFjmjgcJBJLeeGrYEo">
 - The YesMen aim to draw media attention to issues caused by corporations and government through culture jamming campaigns 
-- They create fake websites, fake petitions, performances and films that look legitimate at first glance, but have false information
+- They create fake websites, fake petitions, performances and films that look legitimate at first glance, but actually have false information that exposes/brings attention to corporate issues
 - These get the public’s attention and reveal the issues and corruption in “corporate takeover” 
-- The YesMen consists of two men, Jacques Servin and Igor Vamos, but they likely have other members to help carry out their projects --also the YesLab.
-   
+- The YesMen, Jacques Servin and Igor Vamos, likely have other members to help carry out their projects who need to be kept informed, and collaborate on projects
+- The Yes Lab is a YesMen project, which allows other activist groups to seek help and collaboration from the YesMen to target corporations/politicians 
 
 The YesMen utilize digital media to:
 
 - Empower citizens by raising awareness
 - Expose social class inequality
+- Help other groups with campaigns 
 
 ## Projects:
 
@@ -168,10 +169,10 @@ Files along with folder names are encrypted. The cleartext name of a file is enc
 
 ![Encryption Process](https://lh6.googleusercontent.com/e-kpXkqz3hFiHi7TRZAak5eKUwVmZZyprvkeBTF50UWIv5K0uhIXcKTIhGM6GkqnHlEgp3QaIibIgfqaRY28WEDy7sdALBYuxX5HdXsi)
 
-## What Cryptomator does for you
+## What Cryptomator does for the Yes Men
 
 <img align="right" border="15px" width="45%" src="https://lh6.googleusercontent.com/BJJN5DBGMpRYmiR4IkyB0x-zK9YyMXMZ259DZRTAaky5nwxX-P8gOvvyWGAoUio9fWgvvTG1KYU7rT9rid7qk0bC4-DsFOcyWleorukM">
 
-Allows you to secure your data on any server or cloud storage including Dropbox and Google drive. This allows for a group to share vaults and keep what they’re working on encrypted. It’s Open source and available on many platforms including Windows, macOS, Linux, Android, iOS, and even as a jar.
+The YesMen's activism is almost entirely based in digital media --video files, plans for events, hoax websites, advertisements, etc.-- all of which need to be protected and remain known to trusted collaborators only until the campaigns are released. Cryptomator allows them to secure their data on any server or cloud storage including Dropbox and Google drive. This allows for a group to share vaults and keep what they’re working on encrypted. It’s Open source and available on many platforms including Windows, macOS, Linux, Android, iOS, and even as a jar.
 And best of all: it is easy to use!
 
