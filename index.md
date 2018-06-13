@@ -154,8 +154,8 @@ The US Chamber of Commerce made these legal Claims against the YesMen:
 - WebDAV is the frontend for cryptomator and is an HTTP-based protocol. 
 
 ### Masterkey Derivation
-<div style="width:25%; font-size:80%; text-align:center;">
-<img align="right" border="10px" width="25%" src="https://lh5.googleusercontent.com/lrdcmBws972rw2kDauSJWIgDiuHpiycYr7-P-J9G3csT7kkhb5K4LUXUErrSvA6ns3XCjkPz6fZm38Kg0UHDsteX77226rKtC8tPHjVKWdQDcgdeTbJU5UcbfBNyeuguAOOYcdIc8Cg" style="padding-bottom:0.5em;">
+<div align="right" border="10px" style="width:25%; font-size:80%; text-align:center;">
+<img src="https://lh5.googleusercontent.com/lrdcmBws972rw2kDauSJWIgDiuHpiycYr7-P-J9G3csT7kkhb5K4LUXUErrSvA6ns3XCjkPz6fZm38Kg0UHDsteX77226rKtC8tPHjVKWdQDcgdeTbJU5UcbfBNyeuguAOOYcdIc8Cg" style="padding-bottom:0.5em;">
 The KEK decrypts the stored masterkeys when unlocking the vault</div>
 
 Each vault has its own encryption and MAC masterkey. A cryptographically secure pseudorandom number generator called SecureRandom with ShA1PRNG is used to seed the key with 440 bits. Afterward, Scrypt encrypts the masterkey with a KEK (Key-encryption key) derived from the user’s password. Scrypt is designed to make large-scale custom hardware attacks costly by requiring large amounts of memory.
