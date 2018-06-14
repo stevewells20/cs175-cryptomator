@@ -13,7 +13,7 @@ description: How the use of Cryptomator would benefit the YesMen
    - [Mitigate these threats: Cryptomator](#how-to-mitigate-these-threats-cryptomator)
 - [What is Cryptomator](#what-is-cryptomator)
    - [Technical Aspects](#technical-aspects)
-   - [What Cryptomator does for you](#what-cryptomator-does-for-you)
+   - [What Cryptomator can do for the YesMen](#what-cryptomator-can-do-for-the-YesMen)
 - [Guide to Using Cryptomator](#guide-to-using-cryptomator)
 
 # Who are the YesMen?
@@ -169,7 +169,7 @@ Files along with folder names are encrypted. The cleartext name of a file is enc
 
 ![Encryption Process](https://lh6.googleusercontent.com/e-kpXkqz3hFiHi7TRZAak5eKUwVmZZyprvkeBTF50UWIv5K0uhIXcKTIhGM6GkqnHlEgp3QaIibIgfqaRY28WEDy7sdALBYuxX5HdXsi)
 
-## What Cryptomator does for the Yes Men
+## What Cryptomator can do for the Yes Men
 
 <img align="right" border="15px" width="45%" src="https://lh6.googleusercontent.com/BJJN5DBGMpRYmiR4IkyB0x-zK9YyMXMZ259DZRTAaky5nwxX-P8gOvvyWGAoUio9fWgvvTG1KYU7rT9rid7qk0bC4-DsFOcyWleorukM">
 
