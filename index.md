@@ -13,7 +13,7 @@ description: How the use of Cryptomator would benefit the YesMen
    - [Mitigate these threats: Cryptomator](#how-to-mitigate-these-threats-cryptomator)
 - [What is Cryptomator](#what-is-cryptomator)
    - [Technical Aspects](#technical-aspects)
-   - [What Cryptomator can do for the YesMen](#What Cryptomator can do for the YesMen)
+   - [What Cryptomator can do for the YesMen](#What-Cryptomator-can-do-for-the-YesMen)
 - [Guide to Using Cryptomator](#guide-to-using-cryptomator)
 
 # Who are the YesMen?
