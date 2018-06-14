@@ -175,3 +175,17 @@ Files along with folder names are encrypted. The cleartext name of a file is enc
 Allows you to secure your data on any server or cloud storage including Dropbox and Google drive. This allows for a group to share vaults and keep what they’re working on encrypted. It’s Open source and available on many platforms including Windows, macOS, Linux, Android, iOS, and even as a jar.
 And best of all: it is easy to use!
 
+
+
+# Guide to Using Cryptomator
+
+1. First, visit the [Cryptomator website](https://cryptomator.org/) and download Cryptomator for your OS. The installation process is fairly straightforward and described well on the Cryptomator website.
+2. After Installation is finished, launch Cryptomator by clicking on the Cryptomator icon.
+3. To create a New vault click on the + sign at the bottom right of the cryptomator window and select Create New Vault. You will be prompted to choose the location of the folder for your vault. If cloud collaboration is desired, choose either a Dropbox or Google Drive location to store your folder.
+![Cryptomator Vault Creation](https://lh3.googleusercontent.com/IqjsACeQyDpzAgimPox8CY64Baf-GbCksI7JGtfNbhO3eqv0cde1BvHvfb-Ok4jUGBOZcTyhwzCj6mf3RjJhAFkKBI_kaWTXN1CstAbaFC2TKiUT2cY5fWif8hEX_T43N_5I-7LLc48v6jtrJi-fV2CNfTPZFO3OwvBVzuaFPMdNmgIZNwzCJVSyYccFNO4_vNQxZCK6yjHa2a3CJUH44JP7XXlBKfhWm_Wm6UzGoupCeRG7qj09AcnoSFrnSCPXYzH4BBSmuYnCRsxzT8ik030HQrtYL44Fs2hiEtYLDPCoNz8LieYAOiy8gi_u0ndyKkQjJc8Nj836hqVxZ3PBFc-RaMLjoVFMGhCfbsst7wm8WEiHKdcUQrt9FZQGfBhbOFGmCPyhgg5462tLzsKKmBz2pYVDzc_zKuBmXr_zhzFOHksUQU9lup2ebXNFhjlQTKJ2UAsxGvr9rzcWWpweftBWd_3msag7xSdUuy31VBCrCPUv-Vv9rzsDJn4mCM3VxMg2dFC2flAP7qTT7Y3mkT4aYKjUipfFCuMEXkdlztrm3LdWsxWWzDBKrg93QnYNhVZuCj7ydeyBYr6LRDSdYhgYVw79ku8EuCizlw=w650-h468-no)
+4. Enter a password for your Vault, it's a good idea to use a password manager coupled with a password generator to ensure you have a strong password.
+5. To unlock and use the vault, click on your folder in Cryptomator and enter your password, Cryptomator will mount your encrypted folder as a drive. Afterwards, you can keep cryptomator running in the background and use your application of choice to access and add, edit, or remove files in the folder.
+![Cryptomator Vault Locking](https://lh3.googleusercontent.com/is5aNlYEOWT29HyhCIWwwWw7h7PAMMnuYniTuIE9NnGNcBjRtm1Qf7B9cIs-zWT8RexptW2Ff7sUazbnJnrXtf-85OB6EnivibfYYspODKmcG1NKrFxm99PiXnS3wTopymX2tXgllff7VcjRYVfTGQNAcHUHdUHcjdRcl4BMNMOdYJRnXTB6VWthlay59vFOn5PxKxtKMGXXqrWc5_UGQ39Wv-sY6id-VYrlGsjveLZJaGr8tF5Ycw4bfD1ChYmSGwT9XAx_ptoQahJUcnhi4PZwbHVaZIW0UCRGzSrYFlFsACdsTJ_MKpIg9GlWDu6r7qG_FLCZjFdgq_tLSa7Uw8H6Wfujz7OcPmCV4eS9bS_ijFQ2mGY-BIzuApaK7pktaqdKb3JzOYGk-bZd8ogSXCrNCeXTdtzLtI8JVuN2tGLHte_4aXRBQXjGc2gCcqY13nb9CeMnzDgy6ovWIdRMSWDTuEf7LsPADLQet7A1lrOw6R9Wvi5fSJ1wb5YSZbdSuUidaa0s8WcBN2n-piEJxfUwRTKpgrQ7S5-ymE6pojnn4hFYrnRjpVwYpQOdPvhSblEjgegh5bA5MINjjsJBhVViye3NzkDTWQphpnuzd7McVEzmKqJGu2zypadmc-QHX1y2zGZSUJP2C2Qhg4EczlhZjKu9nE4=w650-h469-no)
+6. Once you're finished making changes and wish to lock your folder, you can go back into cryptomator and hit the lock vault button. If you forget and close cryptomator, don't fret the vault will lock automatically.
+
+
