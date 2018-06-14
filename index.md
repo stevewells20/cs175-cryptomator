@@ -14,7 +14,7 @@ description: How the use of Cryptomator would benefit the YesMen
 - [What is Cryptomator](#what-is-cryptomator)
    - [Technical Aspects](#technical-aspects)
    - [What Cryptomator does for you](#what-cryptomator-does-for-you)
-
+- [Guide to Using Cryptomator](#guide-to-using-cryptomator)
 
 # Who are the YesMen?
 <img align="right" width="30%" border="10px" src="https://lh3.googleusercontent.com/V6Bv8AhcYsyl9LQz3cgkhxOGBr1CJtmEBK1rWxUSjkJGALFO98li734EtFPW312M-C_xmkJFvJb1J-NOZnUGcFkUIxkDTPwLzWAjW0EGObLEIk3usC7ittxmzZFjmjgcJBJLeeGrYEo">
