@@ -169,7 +169,7 @@ Files along with folder names are encrypted. The cleartext name of a file is enc
 
 ![Encryption Process](https://lh6.googleusercontent.com/e-kpXkqz3hFiHi7TRZAak5eKUwVmZZyprvkeBTF50UWIv5K0uhIXcKTIhGM6GkqnHlEgp3QaIibIgfqaRY28WEDy7sdALBYuxX5HdXsi)
 
-## What Cryptomator can do for the Yes Men
+## What Cryptomator can do for the YesMen
 
 <img align="right" border="15px" width="45%" src="https://lh6.googleusercontent.com/BJJN5DBGMpRYmiR4IkyB0x-zK9YyMXMZ259DZRTAaky5nwxX-P8gOvvyWGAoUio9fWgvvTG1KYU7rT9rid7qk0bC4-DsFOcyWleorukM">
 
